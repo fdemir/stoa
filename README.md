@@ -10,7 +10,9 @@ Our goal is to provide a set of components that are accessible, performant, and 
 
 _keep it simple_
 
-![stoa](https://i.pinimg.com/originals/2a/fe/bb/2afebb60c3068e5f7f20ae7e5cb44ef0.png)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/2a/fe/bb/2afebb60c3068e5f7f20ae7e5cb44ef0.png" width="400" height="300" />
+</p>
 
 ### Key Features
 
